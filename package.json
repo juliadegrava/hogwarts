@@ -7,12 +7,24 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "cls && nodemon server.js"
   },
-  "keywords": ["Harry Potter", "Magic", "Wizards"],
+  "keywords": [
+    "Harry Potter",
+    "Magic",
+    "Wizards"
+  ],
   "author": "Degrava",
   "license": "MIT",
   "description": "Atividade do mundo de Harry Potter",
   "dependencies": {
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliadegrava/hogwarts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juliadegrava/hogwarts/issues"
+  },
+  "homepage": "https://github.com/juliadegrava/hogwarts#readme"
 }
